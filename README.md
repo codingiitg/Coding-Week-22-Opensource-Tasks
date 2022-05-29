@@ -1,6 +1,8 @@
 # Open Source Module
 
-Greetings🎉! We hope you have gone through the resources and understood the basics of Git and GitHub which is essential for contributing to open source projects
+Greetings🎉!
+
+We hope you have gone through the resources and understood the basics of Git and GitHub which is essential for contributing to open source projects
 Now it's time to test your understanding through a task. The task has been divided into 3 subtasks with increasing level of difficulty. The points associated with the tasks also increase proportionately with their difficulty.
 
 Also note that it is not mandatory to attempt all the subtasks. You can attempt whichever task you want. However, attempting more tasks will increase your chances of selection for interviews.
