@@ -16,7 +16,7 @@ Create a repository on your local machine and then push it to your GitHub accoun
 ## Sub Task 2:
 
 - Create a new branch in your repository. Edit your README by adding a few lines about why you want to contribute to open source. Commit these changes to the branch. Merge the two branches.
-- Fork and clone the repo Coding Week 22 Task from the [Coding Club](https://github.com/codingiitg) GitHub Account. In the repository there will be a template hello world program with a name `hello.cpp`. Create a new file with name `roll_no.cpp` with the same content as of the Template program and change the word `world` to your name and generate a pull request.
+- Fork and clone the repo Coding Week 22 Task from the [Coding Club](https://github.com/codingiitg) GitHub Account. In the repository there will be a template hello world program with a name `hello.cpp`. Create a new file with name `roll_no.cpp` (change roll_no with your IITG roll number) with the same content as of the Template program and change the word `world` to your name and generate a pull request.
 
     Note : You need to record your screen while doing these tasks from Sub Task 2. These tasks should be done from the command line ( GitHub Desktop should not be used). Also introduce yourself in the beginning of the video.
 
